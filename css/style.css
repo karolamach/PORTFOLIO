@@ -197,16 +197,16 @@ section {
     background-size: cover;
 }
 
-#pf1.gallery {
-    background-image: url(../img/Wyvern-programming-languages-in-one.jpg);
+#project1.gallery {
+    background-image: url(../img/bitcoin.jpg);
 }
 
-#pf2.gallery {
-    background-image: url(../img/Wyvern-programming-languages-in-one.jpg);
+#project2.gallery {
+    background-image: url(../img/waluty-forex-752x440.jpg);
 }
 
-#pf3.gallery {
-    background-image: url(../img/Wyvern-programming-languages-in-one.jpg);
+#project3.gallery {
+    background-image: url(../img/tic-tac-toe.jpg);
 }
 
 #pf4.gallery {
