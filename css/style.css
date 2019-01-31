@@ -161,7 +161,10 @@ h3{
     font-weight: bold;
 }
 
-.skills-logo {}
+/* .iconPort img:hover{
+    transform: scale(1.2);
+    transition-duration: 0.5s;
+} */
 
 .skills-logo figure {
     display: inline-block;
