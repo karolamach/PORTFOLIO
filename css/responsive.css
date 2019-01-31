@@ -15,24 +15,24 @@
         font-size: 14px;
     }
 
-    #pf1.gallery {
+    #project1.gallery {
         width: 100%;
         background-size: cover;
     }
 
-    #pf2.gallery {
-
-        width: 100%;
-        background-size: cover;
-    }
-
-    #pf3.gallery {
+    #project2.gallery {
 
         width: 100%;
         background-size: cover;
     }
 
-    #pf4.gallery {
+    #project3.gallery {
+
+        width: 100%;
+        background-size: cover;
+    }
+
+    /* #pf4.gallery {
 
         width: 100%;
         background-size: cover;
@@ -48,9 +48,9 @@
 
         width: 100%;
         background-size: cover;
-    }
+    } */
 
-    /*responsive nav bar*/
+    
     nav label {
         display: block;
         text-align: right;
