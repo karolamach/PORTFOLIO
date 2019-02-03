@@ -71,6 +71,12 @@
         color:black;
     } */
 
+    h6{
+        /* font-size:15px; */
+        font-weight: bold;
+       
+    }
+
     #rwdmenu:checked + ul {
         display: block;
         position: absolute;
