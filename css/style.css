@@ -221,17 +221,17 @@ section {
     background-image: url(../img/tictaktoenew.jpg);
 }
 
-/* #pf4.gallery {
-    background-image: url(../img/Wyvern-programming-languages-in-one.jpg);
-}
-
+#pf4.gallery {
+    background-image: url(../img/hp-background.jpg);
+} 
+/* 
 #pf5.gallery {
     background-image: url(../img/Wyvern-programming-languages-in-one.jpg);
 }
 
 #pf6.gallery {
     background-image: url(../img/Wyvern-programming-languages-in-one.jpg);
-} */
+} */ 
 
 .pf-mask {
     background-color: silver;
