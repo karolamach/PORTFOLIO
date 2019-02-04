@@ -1,4 +1,4 @@
-@media all and (max-width: 992px) {
+@media screen and (max-width: 992px) {
 
 
     .container-about-me {
@@ -34,7 +34,7 @@
         background-size: cover;
     }
 
-    /* #pf4.gallery {
+    #pf4.gallery {
 
         width: 100%;
         background-size: cover;
@@ -50,7 +50,7 @@
 
         width: 100%;
         background-size: cover;
-    } */
+    } 
 
     
     nav label {
