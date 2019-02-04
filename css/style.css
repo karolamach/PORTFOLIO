@@ -223,15 +223,17 @@ section {
 
 #pf4.gallery {
     background-image: url(../img/hp-background.jpg);
+    /* background-size: 100%; */
 } 
-/* 
-#pf5.gallery {
-    background-image: url(../img/Wyvern-programming-languages-in-one.jpg);
-}
+
+ #pf5.gallery {
+    background-image: url(../img/quotes-back.png);
+    
+} 
 
 #pf6.gallery {
     background-image: url(../img/Wyvern-programming-languages-in-one.jpg);
-} */ 
+} 
 
 .pf-mask {
     background-color: silver;
