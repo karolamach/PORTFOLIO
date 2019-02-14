@@ -1,4 +1,4 @@
-@media screen and (max-width: 992px) {
+/* @media screen and (max-width: 992px) {
 
 
     .container-about-me {
@@ -8,7 +8,7 @@
     .about-me {
         width: 100%;
         display: inline-block;
-        /* float: left; */
+        float: left;
         padding: 5px;
         font-size: 14px;
         background-size: cover;
@@ -71,9 +71,9 @@
         color:black;
     } */
 
-    h6{
+    /* h6{
         /* font-size:15px; */
-        font-weight: bold;
+        /* font-weight: bold;
        
     }
 
@@ -142,4 +142,102 @@
     }
 
 
+}  */ */
+
+/*RWD 1200px - 922px - 768px -520px*/
+
+/*BIG SCREENS*/
+
+@media all and (max-width:1200px) {
+    #portfolio .portfolio-items .portfolio-single-item {
+        width: 50%;
+    }
+
+    #portfolio .portfolio-items .portfolio-single-item:last-child {
+        width: 100%;
+    }
 }
+
+/*MEDIUM SCREENS*/
+
+@media all and (max-width:922px) {
+    #menu ul {
+        display: none;
+    }
+
+    #menu #drop:checked + ul {
+        display: block;
+    }
+
+    #menu .toggle {
+        display: block;
+        padding: 0 20px;
+        font-size: 20px;
+        line-height: 60px;
+        text-align: right;
+        color: #1ac056;
+
+    }
+
+    #menu ul li {
+        display: block;
+        text-align: right;
+        padding-right: 20px;
+        padding-top: 5px
+    }
+
+    #about .about-item {
+        width: 100%;
+    }
+
+    #about .about-item img {
+        width: 100%;
+        height: auto;
+    }
+
+    #about article {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    #portfolio .portfolio-items .portfolio-single-item {
+        width: 100%;
+        text-align: center;
+    }
+
+    #contact .contact-data {
+        width: 100%;
+        text-align: center;
+    }
+
+    #contact .contact-data h2 {
+        text-align: center;
+    }
+
+    #contact .contact-form {
+        width: 100%;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
+
+/*SMALL SCREENS*/
+@media all and (max-width:768px) {
+    
+    #main-header .main-header-text h1{
+        font-size: 3em;
+    }
+    
+    #main-header .main-header-text h2{
+        font-size: 1.5em;
+    }
+    
+    section{
+        padding-right: 0;
+        padding-left: 0;
+    }
+}
+
+@media all and (max-width:520px) {  
+}
+© 2019 GitHub, Inc.
