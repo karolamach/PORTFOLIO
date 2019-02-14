@@ -4,10 +4,7 @@
         font-size: 50px;
         font-weight: bold;
     }
-    .skills p {
-        font-size: 14px;
-    }
-
+    
     .header-authore{
         width :100%;
     }
@@ -83,6 +80,10 @@
     /* .menuicon{
         color:black;
     } */
+    .skills p {
+        font-size: 14px;
+    }
+
 
   
 
