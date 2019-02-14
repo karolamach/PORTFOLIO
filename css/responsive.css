@@ -2,6 +2,10 @@
 
     h6{
         font-size: 50px;
+        font-weight: bold;
+    }
+    .skills p {
+        font-size: 14px;
     }
 
     .header-authore{
@@ -24,9 +28,7 @@
         font-size: 14px;
         background-size: cover;
     }
-    .skills p {
-        font-size: 14px;
-    }
+  
 
     #project1.gallery {
         width: 100%;
@@ -82,11 +84,7 @@
         color:black;
     } */
 
-    h6{
-        /* font-size:15px; */
-        font-weight: bold;
-       
-    }
+  
 
     #rwdmenu:checked + ul {
         display: block;
